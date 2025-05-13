@@ -1,0 +1,33 @@
+2025-05-13 14:35:52,584 - INFO - Calculator started
+2025-05-13 14:35:52,584 - INFO - This app is a command-line calculator supporting basic operations.
+2025-05-13 14:36:09,741 - INFO - Inputs received: num1=10.0, num2=5.0
+2025-05-13 14:36:09,741 - INFO - Add: 10.0 and 5.0 = 15.0
+2025-05-13 14:36:09,744 - INFO - Displayed result: 15.0
+2025-05-13 14:36:22,524 - INFO - Inputs received: num1=10.0, num2=5.0
+2025-05-13 14:36:22,524 - INFO - Subtract: 10.0 and 5.0 = 5.0
+2025-05-13 14:36:22,524 - INFO - Displayed result: 5.0
+2025-05-13 14:36:29,274 - INFO - Inputs received: num1=10.0, num2=5.0
+2025-05-13 14:36:29,281 - INFO - Multiply: 10.0 and 5.0 = 50.0
+2025-05-13 14:36:29,282 - INFO - Displayed result: 50.0
+2025-05-13 14:36:40,966 - INFO - Inputs received: num1=10.0, num2=5.0
+2025-05-13 14:36:40,966 - INFO - Divide: 10.0 and 5.0 = 2.0
+2025-05-13 14:36:40,966 - INFO - Displayed result: 2.0
+2025-05-13 14:36:49,182 - INFO - Inputs received: num1=10.0, num2=0.0
+2025-05-13 14:36:49,182 - ERROR - Attempted division by zero
+2025-05-13 14:36:49,182 - INFO - Displayed result: 2.0
+2025-05-13 14:37:45,618 - INFO - Inputs received: num1=3.5, num2=1.5
+2025-05-13 14:37:45,618 - INFO - Add: 3.5 and 1.5 = 5.0
+2025-05-13 14:37:45,618 - INFO - Displayed result: 5.0
+2025-05-13 14:37:57,338 - INFO - Inputs received: num1=-4.0, num2=2.0
+2025-05-13 14:37:57,338 - INFO - Multiply: -4.0 and 2.0 = -8.0
+2025-05-13 14:37:57,338 - INFO - Displayed result: -8.0
+2025-05-13 14:38:20,707 - ERROR - Invalid input: non-numeric value entered
+2025-05-13 14:38:41,453 - INFO - Inputs received: num1=100.0, num2=20.0
+2025-05-13 14:38:41,453 - INFO - Subtract: 100.0 and 20.0 = 80.0
+2025-05-13 14:38:41,453 - INFO - Displayed result: 80.0
+2025-05-13 14:38:48,298 - INFO - Calculator exited by user
+2025-05-13 14:41:27,464 - INFO - Calculator started
+2025-05-13 14:41:27,464 - INFO - This app is a command-line calculator supporting basic operations.
+2025-05-13 14:41:35,210 - INFO - Inputs received: num1=10.0, num2=0.0
+2025-05-13 14:41:35,210 - ERROR - Attempted division by zero
+2025-05-13 14:41:40,638 - INFO - Calculator exited by user
