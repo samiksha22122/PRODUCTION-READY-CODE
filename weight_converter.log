@@ -1,0 +1,16 @@
+
+2025-05-14 07:55:41,912 - INFO - Application started
+2025-05-14 07:55:41,912 - INFO - Weight Converter App Initialized
+2025-05-14 07:55:48,047 - INFO - Kilograms to Pounds: 60.0 -> 132.3
+2025-05-14 07:55:48,047 - INFO - Displayed result: 132.3 Lbs
+2025-05-14 07:56:01,260 - INFO - Pounds to Kilograms: 132.3 -> 60.0
+2025-05-14 07:56:01,260 - INFO - Displayed result: 60.0 Kgs
+2025-05-14 07:56:06,820 - INFO - Kilograms to Pounds: -5.0 -> -11.0
+2025-05-14 07:56:06,820 - INFO - Displayed result: -11.0 Lbs
+2025-05-14 07:56:14,589 - INFO - Pounds to Kilograms: 0.0 -> 0.0
+2025-05-14 07:56:14,589 - INFO - Displayed result: 0.0 Kgs
+2025-05-14 07:56:19,584 - ERROR - Non-numeric weight entered
+2025-05-14 07:56:27,807 - WARNING - Invalid unit entered: Z
+2025-05-14 07:56:37,976 - INFO - Pounds to Kilograms: 90.5 -> 41.0
+2025-05-14 07:56:37,976 - INFO - Displayed result: 41.0 Kgs
+2025-05-14 07:56:44,766 - INFO - Application exited by user
